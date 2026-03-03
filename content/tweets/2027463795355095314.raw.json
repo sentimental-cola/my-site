@@ -1,0 +1,65 @@
+{
+  "__typename": "Tweet",
+  "lang": "zxx",
+  "favorite_count": 9527,
+  "possibly_sensitive": false,
+  "created_at": "2026-02-27T19:20:11.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2027…",
+        "expanded_url": "http://x.com/i/article/2027446899310313472",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/nKTDfC7zMm"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "id_str": "2027463795355095314",
+  "text": "https://t.co/nKTDfC7zMm",
+  "user": {
+    "id_str": "352806502",
+    "name": "Thariq",
+    "screen_name": "trq212",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2027463795355095314"
+    ],
+    "editable_until_msecs": "1772223611000",
+    "is_edit_eligible": false,
+    "edits_remaining": "5"
+  },
+  "conversation_count": 205,
+  "news_action_type": "conversation",
+  "article": {
+    "rest_id": "2027446899310313472",
+    "id": "QXJ0aWNsZUVudGl0eToyMDI3NDQ2ODk5MzEwMzEzNDcy",
+    "title": "Lessons from Building Claude Code: Seeing like an Agent ",
+    "preview_text": "One of the hardest parts of building an agent harness is constructing its action space.\nClaude acts through Tool Calling, but there are a number of ways tools can be constructed in the Claude API with",
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHCLxeR3acAAKAAIAAAAAFQdmZgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_url": "https://pbs.twimg.com/media/HCLxeR3acAAf2R9.jpg",
+        "original_img_width": 2935,
+        "original_img_height": 1174
+      }
+    }
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}
